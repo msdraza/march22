@@ -1,7 +1,7 @@
 class A{
 		int x;
 			int y;
-				
+		int v;	
 				static int p;
 }
 
